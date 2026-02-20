@@ -1,6 +1,6 @@
 [package]
 name = "gnc"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2024"
 description = "Spacecraft GNC library with C/C++ and NASA F-Prime bindings."
 license = "MIT"
