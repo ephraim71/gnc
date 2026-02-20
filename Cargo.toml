@@ -2,5 +2,8 @@
 name = "gnc"
 version = "0.1.0"
 edition = "2024"
+description = "Sacecraft GNC library with C/C++ and NASA F-Prime bindings."
+license = "MIT"
+
 
 [dependencies]
